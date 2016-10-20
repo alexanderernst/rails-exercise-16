@@ -1,3 +1,6 @@
+require 'spec_helper'
+require 'rails_helper'
+
 describe "Index page", :type => :feature do
   
   it "should display 'Paper Management System'" do
